@@ -1,4 +1,4 @@
-# crow-sample
+# crow-demo
 
 ```bash
 $ mkdir build
